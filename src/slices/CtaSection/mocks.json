@@ -9,7 +9,7 @@
 					{
 						"type": "heading2",
 						"content": {
-							"text": "Boost your productivity. Start using our app today...",
+							"text": "Lust auf mehr Rückerstattung?",
 							"spans": []
 						},
 						"direction": "ltr"
@@ -22,7 +22,7 @@
 					{
 						"type": "paragraph",
 						"content": {
-							"text": "Incididunt sint fugiat pariatur cupidatat consectetur sit cillum anim id veniam aliqua proident excepteur commodo do ea."
+							"text": "Wir schauen uns Ihre Steuersituation an und finden gemeinsam, was wirklich für Sie drin ist. Ohne Fachchinesisch. Versprochen."
 						}
 					}
 				]
@@ -32,8 +32,8 @@
 				"__TYPE__": "LinkContent",
 				"value": {
 					"__TYPE__": "ExternalLink",
-					"url": "http://google.com",
-					"text": "Get started"
+					"url": "#",
+					"text": "Termin buchen"
 				}
 			},
 			"secondaryCta": {
@@ -41,8 +41,8 @@
 				"__TYPE__": "LinkContent",
 				"value": {
 					"__TYPE__": "ExternalLink",
-					"url": "https://slicemachine.dev",
-					"text": "Learn more"
+					"url": "#",
+					"text": "Wie wir arbeiten"
 				}
 			}
 		},

@@ -1,0 +1,77 @@
+{
+  "id": "shadcnblocks_feature72",
+  "type": "SharedSlice",
+  "name": "ShadcnblocksFeature72",
+  "description": "Feature grid section with title, description, and feature cards",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default variation",
+      "imageUrl": "",
+      "primary": {
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title",
+            "single": "heading2",
+            "placeholder": "Powerful Features"
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "multi": "paragraph,strong,em,hyperlink",
+            "placeholder": "Discover the powerful features that make our platform stand out from the rest."
+          }
+        },
+        "button": {
+          "type": "Link",
+          "config": {
+            "label": "Button",
+            "allowText": true
+          }
+        },
+        "features": {
+          "type": "Group",
+          "config": {
+            "label": "Features",
+            "fields": {
+              "heading": {
+                "type": "StructuredText",
+                "config": {
+                  "label": "Heading",
+                  "single": "heading3",
+                  "placeholder": "Modern Design"
+                }
+              },
+              "description": {
+                "type": "StructuredText",
+                "config": {
+                  "label": "Description",
+                  "multi": "paragraph,strong,em,hyperlink",
+                  "placeholder": "Clean and intuitive interface built with the latest design principles."
+                }
+              },
+              "image": {
+                "type": "Image",
+                "config": {
+                  "label": "Image"
+                }
+              },
+              "url": {
+                "type": "Link",
+                "config": {
+                  "label": "URL"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}

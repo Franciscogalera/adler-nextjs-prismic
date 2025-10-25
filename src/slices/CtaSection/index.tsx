@@ -1,10 +1,28 @@
+/**
+ * DEFAULT CONTENT FOR PRISMIC (Copy-Paste diese Werte in Prismic):
+ *
+ * Heading (h2):
+ *   "Lust auf mehr Rückerstattung?"
+ *
+ * Description:
+ *   "Wir schauen uns Ihre Steuersituation an und finden gemeinsam, was wirklich für Sie drin ist. Ohne Fachchinesisch. Versprochen."
+ *
+ * Primary CTA:
+ *   - Text: "Termin buchen"
+ *   - URL: #
+ *
+ * Secondary CTA:
+ *   - Text: "Wie wir arbeiten"
+ *   - URL: #
+ */
+
 import { Content, isFilled } from "@prismicio/client";
 import { SliceComponentProps, PrismicRichText } from "@prismicio/react";
 import { PrismicNextLink } from "@prismicio/next";
 
 export type CtaSectionProps = SliceComponentProps<Content.CtaSectionSlice>;
 
-const CtaSection: React.FC<CtaSectionProps> = ({ slice }) => {
+const CtaSection = ({ slice }: CtaSectionProps) => {
   return (
     <section
       data-slice-type={slice.slice_type}

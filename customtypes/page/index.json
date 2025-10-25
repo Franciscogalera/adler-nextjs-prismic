@@ -27,7 +27,16 @@
         "fieldset": "Slice Zone",
         "config": {
           "choices": {
+            "shadcnblocks_feature72": {
+              "type": "SharedSlice"
+            },
+            "alternate_grid_2": {
+              "type": "SharedSlice"
+            },
             "cta_section": {
+              "type": "SharedSlice"
+            },
+            "hero_simple": {
               "type": "SharedSlice"
             }
           }

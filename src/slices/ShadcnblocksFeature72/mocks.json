@@ -1,0 +1,321 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Unsere Leistungen"
+						}
+					}
+				]
+			},
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Von der Steuererklärung bis zur strategischen Unternehmensberatung – wir begleiten Sie in allen steuerlichen Angelegenheiten. Professionell, zuverlässig und immer auf dem neuesten Stand."
+						}
+					}
+				]
+			},
+			"button": {
+				"__TYPE__": "LinkContent",
+				"key": "da9e68de-2ccf-4555-8d2f-5814ffa64414",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "#",
+					"text": "Termin vereinbaren"
+				}
+			},
+			"features": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"key": "feature-1",
+						"value": [
+							[
+								"heading",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "heading3",
+											"content": {
+												"text": "Jahresabschlüsse"
+											}
+										}
+									]
+								}
+							],
+							[
+								"description",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Professionelle Erstellung von Jahresabschlüssen nach HGB und IFRS. Wir sorgen für rechtssichere und aussagekräftige Finanzberichte."
+											}
+										}
+									]
+								}
+							],
+							[
+								"image",
+								{
+									"__TYPE__": "ImageContent",
+									"origin": {
+										"id": "main",
+										"url": "https://images.unsplash.com/photo-1554224311-beee460ae6ba",
+										"width": 2830,
+										"height": 1886
+									},
+									"url": "https://images.unsplash.com/photo-1554224311-beee460ae6ba",
+									"width": 2830,
+									"height": 1886,
+									"edit": {
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 0
+										},
+										"background": "transparent"
+									},
+									"alt": "Jahresabschlüsse und Finanzberichte"
+								}
+							],
+							[
+								"url",
+								{
+									"__TYPE__": "LinkContent",
+									"key": "url-1",
+									"value": {
+										"__TYPE__": "ExternalLink",
+										"url": "#jahresabschluesse"
+									}
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"key": "feature-2",
+						"value": [
+							[
+								"heading",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "heading3",
+											"content": {
+												"text": "Lohnbuchhaltung"
+											}
+										}
+									]
+								}
+							],
+							[
+								"description",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Komplette Abwicklung Ihrer Lohn- und Gehaltsabrechnung. Von der monatlichen Abrechnung bis zur Kommunikation mit den Sozialversicherungsträgern."
+											}
+										}
+									]
+								}
+							],
+							[
+								"image",
+								{
+									"__TYPE__": "ImageContent",
+									"origin": {
+										"id": "main",
+										"url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40",
+										"width": 3000,
+										"height": 2000
+									},
+									"url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40",
+									"width": 3000,
+									"height": 2000,
+									"edit": {
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 0
+										},
+										"background": "transparent"
+									},
+									"alt": "Lohnbuchhaltung und Gehaltsabrechnung"
+								}
+							],
+							[
+								"url",
+								{
+									"__TYPE__": "LinkContent",
+									"key": "url-2",
+									"value": {
+										"__TYPE__": "ExternalLink",
+										"url": "#lohnbuchhaltung"
+									}
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"key": "feature-3",
+						"value": [
+							[
+								"heading",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "heading3",
+											"content": {
+												"text": "Steuerplanung"
+											}
+										}
+									]
+								}
+							],
+							[
+								"description",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Vorausschauende Steuergestaltung für Unternehmen und Privatpersonen. Wir entwickeln Strategien zur legalen Steueroptimierung und helfen Ihnen, Steuern zu sparen."
+											}
+										}
+									]
+								}
+							],
+							[
+								"image",
+								{
+									"__TYPE__": "ImageContent",
+									"origin": {
+										"id": "main",
+										"url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+										"width": 2800,
+										"height": 1867
+									},
+									"url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+									"width": 2800,
+									"height": 1867,
+									"edit": {
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 0
+										},
+										"background": "transparent"
+									},
+									"alt": "Steuerplanung und Optimierung"
+								}
+							],
+							[
+								"url",
+								{
+									"__TYPE__": "LinkContent",
+									"key": "url-3",
+									"value": {
+										"__TYPE__": "ExternalLink",
+										"url": "#steuerplanung"
+									}
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"key": "feature-4",
+						"value": [
+							[
+								"heading",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "heading3",
+											"content": {
+												"text": "Unternehmensgründung"
+											}
+										}
+									]
+								}
+							],
+							[
+								"description",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Begleitung von der ersten Idee bis zur erfolgreichen Gründung. Wir beraten Sie zur optimalen Rechtsform, helfen bei Behördengängen und erstellen Ihren Businessplan."
+											}
+										}
+									]
+								}
+							],
+							[
+								"image",
+								{
+									"__TYPE__": "ImageContent",
+									"origin": {
+										"id": "main",
+										"url": "https://images.unsplash.com/photo-1556761175-b413da4baf72",
+										"width": 3000,
+										"height": 2000
+									},
+									"url": "https://images.unsplash.com/photo-1556761175-b413da4baf72",
+									"width": 3000,
+									"height": 2000,
+									"edit": {
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 0
+										},
+										"background": "transparent"
+									},
+									"alt": "Unternehmensgründung und Beratung"
+								}
+							],
+							[
+								"url",
+								{
+									"__TYPE__": "LinkContent",
+									"key": "url-4",
+									"value": {
+										"__TYPE__": "ExternalLink",
+										"url": "#unternehmensgruendung"
+									}
+								}
+							]
+						]
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]

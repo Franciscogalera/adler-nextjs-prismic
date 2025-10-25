@@ -1,0 +1,87 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"backgroundImage": {
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1554224311-beee460ae6ba",
+					"width": 2830,
+					"height": 1886
+				},
+				"url": "https://images.unsplash.com/photo-1554224311-beee460ae6ba",
+				"width": 2830,
+				"height": 1886,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					},
+					"background": "transparent"
+				},
+				"alt": "Moderne Steuerberatung",
+				"credits": null,
+				"__TYPE__": "ImageContent"
+			},
+			"announcementText": {
+				"__TYPE__": "FieldContent",
+				"value": "Aktuelle Steueränderungen 2025 – wir haben die Antworten.",
+				"type": "Text"
+			},
+			"announcementLink": {
+				"key": "d1bfa8fc-e86f-4a47-a263-4309e062fdfc",
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "#",
+					"text": "Was sich ändert"
+				}
+			},
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Steuerberatung auf Augenhöhe",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Keine Fachbegriffe, kein Kleingedrucktes. Wir erklären Ihnen alles so, dass Sie es verstehen – und entscheiden gemeinsam mit Ihnen, was das Beste für Ihre Situation ist."
+						}
+					}
+				]
+			},
+			"primaryCta": {
+				"key": "a43c2e78-b884-4614-a679-b159292c7525",
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "#",
+					"text": "Termin vereinbaren"
+				}
+			},
+			"secondaryCta": {
+				"key": "c571e248-7d67-4990-9e00-9de463082c2b",
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "#",
+					"text": "So arbeiten wir"
+				}
+			}
+		},
+		"items": []
+	}
+]

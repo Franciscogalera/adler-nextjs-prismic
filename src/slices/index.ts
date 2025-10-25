@@ -4,10 +4,12 @@ import dynamic from "next/dynamic";
 
 export const components = {
   alternate_grid: dynamic(() => import("./AlternateGrid")),
+  alternate_grid_2: dynamic(() => import("./AlternateGrid2")),
   call_to_action: dynamic(() => import("./CallToAction")),
   cta_section: dynamic(() => import("./CtaSection")),
   customer_logos: dynamic(() => import("./CustomerLogos")),
   hero: dynamic(() => import("./Hero")),
-  hero_2: dynamic(() => import("./Hero2")),
+  hero_simple: dynamic(() => import("./HeroSimple")),
   rich_text: dynamic(() => import("./RichText")),
+  shadcnblocks_feature72: dynamic(() => import("./ShadcnblocksFeature72")),
 };
