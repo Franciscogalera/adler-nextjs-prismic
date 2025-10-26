@@ -1,6 +1,6 @@
-# Prismic + Next.js Minimal Starter
+# Adler - Steuerberatung Website
 
-Want to quickly get started building your own project with [Prismic][prismic] and [Next.js][nextjs]? This project includes basic configurations and nothing else. The project includes one Rich Text slice, a homepage, and a dynamic page.
+Moderne Website für Steuerberatung Adler, gebaut mit [Prismic][prismic] CMS und [Next.js][nextjs].
 
 - **Demo**: [Open live demo][live-demo]
 - **Learn more about Prismic and Next.js**: [Prismic Next.js Documentation][prismic-docs]
